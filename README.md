@@ -9,7 +9,7 @@ A comprehensive machine learning application that recognizes handwritten digits 
 ![Main Interface]<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/e6655979-43d5-4044-87b8-ea8463690630" />
 
 *Prediction Results*
-![Prediction Results](screenshots/prediction_results.png)
+![Prediction Results]<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/b102f663-8a08-400d-9a48-16d9068ba68e" />
 
 *Probability Distribution*
 ![Probability Distribution](screenshots/probability_chart.png)
